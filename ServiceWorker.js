@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-aritsu2026-1.0";
 const contentToCache = [
     "Build/aritsu.loader.js",
-    "Build/aritsu.framework.js.br",
-    "Build/aritsu.data.br",
-    "Build/aritsu.wasm.br",
+    "Build/aritsu.framework.js",
+    "Build/aritsu.data",
+    "Build/aritsu.wasm",
     "TemplateData/style.css"
 
 ];
